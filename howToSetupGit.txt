@@ -11,6 +11,12 @@ git commit -m""
 *enviar arquivos para o repositorio git
 git push origin main
 
+*criar um novo branch
+git checkout -b temp
+
+*navegar entre branches
+git checkout main
+
 *permite verificar o status de todos os commit atraves de uma
  GUI do proprio git
 gitk --all
