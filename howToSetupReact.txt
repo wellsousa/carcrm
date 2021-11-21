@@ -1,0 +1,9 @@
+
+*criar o projeto react
+npx create-react-app frontend
+
+*material-ui
+npm install @material-ui/core
+
+*fonte roboto
+npm install fontsource-roboto
