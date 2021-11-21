@@ -17,6 +17,9 @@ git checkout -b temp
 *navegar entre branches
 git checkout main
 
+* mesclar dois branches. após isso é necessario dar um novo commit
+git merge temp
+
 *permite verificar o status de todos os commit atraves de uma
  GUI do proprio git
 gitk --all
