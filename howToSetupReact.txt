@@ -7,3 +7,7 @@ npm install @material-ui/core
 
 *fonte roboto
 npm install fontsource-roboto
+
+npm install bootstrap
+
+npm instal react-icons
